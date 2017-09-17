@@ -1,0 +1,6 @@
+.container{
+
+	background-color:hsla(120,100%,75%,0.3);
+	font-family: "Times New Roman", Georgia, Serif;
+	background-image: url("assets/images/background_img");
+}
